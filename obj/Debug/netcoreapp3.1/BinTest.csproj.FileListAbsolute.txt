@@ -1,0 +1,8 @@
+C:\Users\Nofi\source\repos\BinTest\bin\Debug\netcoreapp3.1\BinTest.deps.json
+C:\Users\Nofi\source\repos\BinTest\bin\Debug\netcoreapp3.1\BinTest.dll
+C:\Users\Nofi\source\repos\BinTest\bin\Debug\netcoreapp3.1\BinTest.pdb
+C:\Users\Nofi\source\repos\BinTest\obj\Debug\netcoreapp3.1\BinTest.AssemblyInfoInputs.cache
+C:\Users\Nofi\source\repos\BinTest\obj\Debug\netcoreapp3.1\BinTest.AssemblyInfo.cs
+C:\Users\Nofi\source\repos\BinTest\obj\Debug\netcoreapp3.1\BinTest.csproj.CoreCompileInputs.cache
+C:\Users\Nofi\source\repos\BinTest\obj\Debug\netcoreapp3.1\BinTest.dll
+C:\Users\Nofi\source\repos\BinTest\obj\Debug\netcoreapp3.1\BinTest.pdb
